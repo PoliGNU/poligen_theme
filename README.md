@@ -1,9 +1,11 @@
 PoliGen Drupal Theme
 =============
-PoliGen is a drupal theme.
+PoliGen is a drupal theme created for the Gender studies group from
+Escola Politécnica da USP. More about PoliGen: http://poligen.polignu.org
+
 It is a subtheme based on Premium Responsive.
 It can be found at: https://drupal.org/project/responsive
-====================
+--------------------
 Premium Responsive is a drupal responsive theme. The theme is not dependent on
 any core theme. Its very light weight for fast loading with modern look.
   Color module integration
