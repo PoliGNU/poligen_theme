@@ -1,0 +1,27 @@
+name = PoliGen
+description = PoliGen is a subtheme based on Premium Responsive, it is a responsive Drupal 7 theme. Please consider a <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=diraol%40diraoln%2eeng%2ebr&lc=US&item_name=Donations%20to%20PoliGen%20Responsive%20Theme&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest" target="_blank">Small Donations</a>. <br/>Paypal ID : diraol@diraoleng.br. Developed by <a
+href="http://blog.diraol.eng.br" target="_blank">blog.diraol.eng.br</a>.
+core = 7.x
+base theme = responsive
+engine = phptemplate
+stylesheets[all][] = css/poligen.css
+stylesheets[all][] = color/colors.css
+regions[sidebar_first]  = First Sidebar
+regions[header]         = Header
+regions[front_welcome]  = Front Welcome
+regions[content]        = Content
+regions[content_top]    = Content Top
+regions[help]           = Help
+regions[footer]         = Footer
+regions[footer_first]   = First Bottom
+regions[footer_second]  = Second Bottom
+regions[footer_third]   = Third Bottom
+regions[footer_fourth]  = Fourth Bottom
+settings[twitter_url]  = "http://www.twitter.com/poligen_usp"
+settings[facebook_url]  = "http://www.facebook.com/poligenusp"
+; Information added by drupal.org packaging script on 2012-08-14
+version = "7.x-1.6"
+core = "7.x"
+project = "poligen"
+datestamp = "1344983241"
+
