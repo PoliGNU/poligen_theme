@@ -1,0 +1,48 @@
+body {
+  background: #d9cae3;
+}
+
+#headright {
+  background: #52085f;
+}
+
+.sidebar .block > h2 {
+  background: #52085f;
+}
+
+#bottom {
+  background: #52085f;
+}
+
+#copyright {
+  background: #52085f;
+}
+
+.form-submit:hover{
+  background: #27012e;
+}
+
+#main-menu li li a,
+#main-menu li li a:link,
+#main-menu li li a:visited {
+  background-color: #52085f;
+}
+
+#main-menu li li a:hover,
+#main-menu li li a:active {
+  background: #27012e;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
