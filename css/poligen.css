@@ -49,3 +49,22 @@
     }
 /* Proximos eventos - Fim */
 
+/* Tema geral */
+    .submitted {
+        background-color: transparent;
+        padding-top: 0;
+        font-size: 11px;
+        color: rgba(156, 156, 156, 0.8);
+    }
+
+    .front .node-article h2 {
+        margin: 0;
+    }
+
+    .front article .field-name-field-tags {
+        font-size: 10px;
+    }
+
+    .front article footer ul.links {
+        font-size: 12px;
+    }
