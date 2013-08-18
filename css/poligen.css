@@ -1,48 +1,51 @@
-body {
-  background: #d9cae3;
-}
+/* Cores Gerais - Início */
+    body {
+      background: #d9cae3;
+    }
+    
+    #headright {
+      background: #52085f;
+    }
+    
+    .sidebar .block > h2 {
+      background: #52085f;
+    }
+    
+    #bottom {
+      background: #52085f;
+    }
+    
+    #copyright {
+      background: #52085f;
+    }
+    
+    .form-submit:hover{
+      background: #27012e;
+    }
+    
+    #main-menu li li a,
+    #main-menu li li a:link,
+    #main-menu li li a:visited {
+      background-color: #52085f;
+    }
+    
+    #main-menu li li a:hover,
+    #main-menu li li a:active {
+      background: #27012e;
+    }
+/* Cores Gerais - Fim */
 
-#headright {
-  background: #52085f;
-}
-
-.sidebar .block > h2 {
-  background: #52085f;
-}
-
-#bottom {
-  background: #52085f;
-}
-
-#copyright {
-  background: #52085f;
-}
-
-.form-submit:hover{
-  background: #27012e;
-}
-
-#main-menu li li a,
-#main-menu li li a:link,
-#main-menu li li a:visited {
-  background-color: #52085f;
-}
-
-#main-menu li li a:hover,
-#main-menu li li a:active {
-  background: #27012e;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Proximos eventos - Início */
+    .view-display-id-proximos_eventos .views-field-title {
+        padding-top: 12px;
+    }
+    
+    .view-display-id-proximos_eventos .views-row-first .views-field-title {
+        padding-top: 0;
+    }
+    
+    .view-display-id-proximos_eventos .evento-data {
+        font-size: 11px;
+    }
+/* Proximos eventos - Fim */
 
